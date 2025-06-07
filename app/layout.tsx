@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 export const metadata: Metadata = {
   title: "Shubham Kumar",
@@ -20,6 +21,8 @@ export const metadata: Metadata = {
     "Software Developer",
     "Front-end Developer",
     "Backend Developer",
+    "portfolio",
+    "nextjs portfolio",
   ],
   authors: [{ name: "Shubham Kumar" }],
   creator: "Shubham Kumar",
@@ -41,6 +44,7 @@ export default function RootLayout({
         <main>{children}</main>
         <Footer />
       </body>
+      <GoogleAnalytics gaId="G-838YGZ8N8V" />
     </html>
   );
 }

@@ -71,7 +71,7 @@ const projects: Project[] = [
       { name: "Tailwind CSS", icon: <SiTailwindcss /> },
     ],
     github: "https://github.com/shubhamKv/portfolio-nextjs",
-    live: "https://portfolio.vercel.app",
+    live: "https://shubham-tech.vercel.app",
   },
 ];
 
