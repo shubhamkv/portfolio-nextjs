@@ -14,7 +14,7 @@ export const Hero = () => {
         {/* Main Content */}
         <div className="text-center lg:text-left space-y-4 lg:space-y-6">
           <h1 className="text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-bold dark:text-white text-gray-900 leading-tight font-serif">
-            Hi there, I'm{" "}
+            Hi there, I&apos;m{" "}
             <span className="bg-gradient-to-r from-indigo-500 via-fuchsia-500 to-orange-500 dark:from-indigo-400 dark:via-fuchsia-400 dark:to-orange-500 bg-clip-text text-transparent">
               Shubham Kumar
             </span>

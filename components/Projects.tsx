@@ -101,7 +101,7 @@ export const Projects = () => {
         viewport={{ once: true }}
         className="text-base sm:text-lg md:text-xl lg:text-2xl font-medium font-mono text-center mb-8 sm:mb-12 lg:mb-16 text-gray-700 dark:text-slate-300"
       >
-        Here are few projects that I've worked on recently
+        Here are few projects that I&apos;ve worked on recently
       </motion.p>
 
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 sm:gap-8 lg:gap-10">

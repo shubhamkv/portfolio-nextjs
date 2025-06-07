@@ -18,7 +18,7 @@ export const About = () => {
           Know Who <span className="text-cyan-600 dark:text-cyan-400">I'M</span>
         </h2>
         <p className="text-lg font-mono sm:text-xl text-gray-700 dark:text-gray-300 leading-relaxed">
-          Hi Everyone, I’m{" "}
+          Hi Everyone, I&apos;m{" "}
           <span className="font-semibold text-cyan-600 dark:text-cyan-400">
             Shubham Kumar{" "}
           </span>
@@ -27,7 +27,7 @@ export const About = () => {
             India.
           </span>
           <br />I have completed my undergraduate (B.TECH) from BIT Mesra in
-          Computer Science & Engineering.
+          Computer Science and Engineering.
           <br />
           <br />
           Some of the highlights of my programming journey are:
@@ -41,7 +41,7 @@ export const About = () => {
               <strong className="text-cyan-600 dark:text-cyan-400">
                 TypeScript
               </strong>
-              , but I'm also skilled in{" "}
+              , but I&apos;m also skilled in{" "}
               <strong className="text-cyan-600 dark:text-cyan-400">
                 JavaScript, Java, C++, and SQL
               </strong>
@@ -135,7 +135,7 @@ export const About = () => {
           <li className="flex items-start gap-2 sm:gap-3 text-base sm:text-lg lg:text-xl font-mono text-gray-700 dark:text-gray-300">
             <FaStar className="w-5 h-5 sm:w-6 sm:h-6 lg:w-8 lg:h-8 text-amber-400 flex-shrink-0 mt-0.5 sm:mt-1" />
             <span className="leading-relaxed">
-              Currently, I'm diving deeper into{" "}
+              Currently, I&apos;m diving deeper into{" "}
               <strong className="text-cyan-600 dark:text-cyan-400">
                 {" "}
                 backend communication patterns, cloud technologies
@@ -151,7 +151,7 @@ export const About = () => {
           <li className="flex items-start gap-2 sm:gap-3 text-base sm:text-lg lg:text-xl font-mono text-gray-700 dark:text-gray-300">
             <FaStar className="w-5 h-5 sm:w-6 sm:h-6 lg:w-8 lg:h-8 text-amber-400 flex-shrink-0 mt-0.5 sm:mt-1" />
             <span className="leading-relaxed">
-              I'm open to exciting{" "}
+              I&apos;m open to exciting{" "}
               <strong className="text-cyan-600 dark:text-cyan-400">
                 {" "}
                 opportunities
