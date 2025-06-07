@@ -5,7 +5,25 @@ import { Footer } from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "Shubham Kumar",
-  description: "Developed by Shubham Kumar in Next.js",
+  description:
+    "Shubham Kumar is a Full Stack Developer from India, with expertise in Next.js, React, TypeScript, Node.js, Express, PostgreSQL, Prisma and MongoDB. I create modern web applications and have a passion for writing clean and efficient code, optimizing performance and building scalable web applications. View my portfolio to see my latest projects and reach out to me for any freelance projects",
+
+  keywords: [
+    "Shubham Kumar",
+    "Full Stack Developer",
+    "React Developer",
+    "Next.js Developer",
+    "TypeScript Developer",
+    "Node.js Developer",
+    "Web Developer India",
+    "Software Engineer",
+    "Software Developer",
+    "Front-end Developer",
+    "Backend Developer",
+  ],
+  authors: [{ name: "Shubham Kumar" }],
+  creator: "Shubham Kumar",
+  publisher: "Shubham Kumar",
   icons: {
     icon: "/portfolio-favicon-48.png",
   },
