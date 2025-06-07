@@ -15,7 +15,8 @@ export const About = () => {
         className="text-center lg:text-left max-w-2xl space-y-6 lg:space-y-8"
       >
         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold font-serif text-gray-900 dark:text-white">
-          Know Who <span className="text-cyan-600 dark:text-cyan-400">I'M</span>
+          Know Who{" "}
+          <span className="text-cyan-600 dark:text-cyan-400">I&apos;M</span>
         </h2>
         <p className="text-lg font-mono sm:text-xl text-gray-700 dark:text-gray-300 leading-relaxed">
           Hi Everyone, I&apos;m{" "}
