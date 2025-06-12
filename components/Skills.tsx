@@ -21,6 +21,7 @@ import {
   SiGit,
   SiGithub,
   SiPostman,
+  SiPython,
 } from "react-icons/si";
 import { DiJava } from "react-icons/di";
 
@@ -33,6 +34,7 @@ const skillGroups = [
       { icon: <SiTypescript />, name: "TypeScript" },
       { icon: <SiJavascript />, name: "JavaScript" },
       { icon: <DiJava />, name: "Java" },
+      { icon: <SiPython />, name: "Python" },
       { icon: <SiCplusplus />, name: "C++" },
       { icon: <SiMysql />, name: "SQL" },
     ],
