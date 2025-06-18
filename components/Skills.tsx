@@ -36,7 +36,6 @@ const skillGroups = [
       { icon: <DiJava />, name: "Java" },
       { icon: <SiPython />, name: "Python" },
       { icon: <SiCplusplus />, name: "C++" },
-      { icon: <SiMysql />, name: "SQL" },
     ],
   },
   {
