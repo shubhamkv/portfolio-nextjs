@@ -37,11 +37,42 @@ const projects: Project[] = [
       { name: "React", icon: <SiReact /> },
       { name: "Tailwind CSS", icon: <SiTailwindcss /> },
       { name: "PostgreSQL", icon: <SiPostgresql /> },
+      { name: "Redis", icon: <SiRedis /> },
       { name: "Prisma ORM", icon: <SiPrisma /> },
       { name: "Express", icon: <SiExpress /> },
     ],
     github: "https://github.com/shubhamkv/trackzen",
     live: "https://trackzen.netlify.app",
+  },
+  {
+    title: "ProfileIQ",
+    description:
+      "ProfileIQ analyzes GitHub profiles and scores them based on contributions, activity, and repository statistics — helping showcase strengths and improve developer presence",
+    image: "/profile-iq.png",
+    tech: [
+      { name: "React", icon: <SiReact /> },
+      { name: "Next.js", icon: <SiNextdotjs /> },
+      { name: "TypeScript", icon: <SiTypescript /> },
+      { name: "PostgreSQL", icon: <SiPostgresql /> },
+      { name: "Prisma ORM", icon: <SiPrisma /> },
+      { name: "Tailwind CSS", icon: <SiTailwindcss /> },
+    ],
+    github: "https://github.com/shubhamkv/profileiq",
+    live: "https://profileiq.vercel.app",
+  },
+  {
+    title: "Portfolio",
+    description:
+      "A modern and fully responsive portfolio website built with Next.js, TypeScript and Tailwind CSS.",
+    image: "/portfolio.png",
+    tech: [
+      { name: "Next.js", icon: <SiNextdotjs /> },
+      { name: "React", icon: <SiReact /> },
+      { name: "TypeScript", icon: <SiTypescript /> },
+      { name: "Tailwind CSS", icon: <SiTailwindcss /> },
+    ],
+    github: "https://github.com/shubhamKv/portfolio-nextjs",
+    live: "https://shubham-tech.vercel.app",
   },
   {
     title: "Task Wave",
@@ -58,20 +89,6 @@ const projects: Project[] = [
     ],
     github: "https://github.com/shubhamkv/task-wave",
     live: "https://task-wavee.netlify.app",
-  },
-  {
-    title: "Portfolio",
-    description:
-      "A modern and fully responsive portfolio website built with Next.js, TypeScript and Tailwind CSS.",
-    image: "/portfolio.png",
-    tech: [
-      { name: "Next.js", icon: <SiNextdotjs /> },
-      { name: "React", icon: <SiReact /> },
-      { name: "TypeScript", icon: <SiTypescript /> },
-      { name: "Tailwind CSS", icon: <SiTailwindcss /> },
-    ],
-    github: "https://github.com/shubhamKv/portfolio-nextjs",
-    live: "https://shubham-tech.vercel.app",
   },
 ];
 
