@@ -23,6 +23,7 @@ import {
   SiPostman,
   SiPython,
   SiGo,
+  SiDocker,
 } from "react-icons/si";
 import { DiJava } from "react-icons/di";
 
@@ -74,7 +75,7 @@ const skillGroups = [
     skills: [
       { icon: <SiGit />, name: "Git" },
       { icon: <SiGithub />, name: "GitHub" },
-
+      { icon: <SiDocker />, name: "Docker" },
       { icon: <SiPostman />, name: "Postman" },
     ],
   },
